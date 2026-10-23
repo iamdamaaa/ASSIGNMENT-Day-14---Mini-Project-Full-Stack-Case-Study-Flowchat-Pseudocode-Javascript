@@ -1,0 +1,16 @@
+contoh1=member
+60000
+contoh2=non-member
+65000
+contoh3=non-member 250k
+250000
+contoh4=non-member 200k
+215000
+contoh5=non-member 300k
+300000
+contoh6=non-member jumlah 0
+jumlah tidak valid, silahkan perbaiki terlebih dulu
+contoh7= harga baju berupa pecahan
+Angka tidak valid, silahkan perbaiki terlebih dulu
+contoh8= harga baju berupa huruf
+Angka tidak valid atau mengandung huruf, silahkan perbaiki terlebih dulu

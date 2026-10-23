@@ -1,0 +1,9 @@
+// start program
+// validasi input
+// hitung total harga (item * price )
+// hitung diskon jika member (10%)
+// total bayar if total harga < 250000 {
+    += 15000
+}
+// tampilkan output
+// stop program
